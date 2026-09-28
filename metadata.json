@@ -1,0 +1,6 @@
+{
+  "name": "Aura Flow",
+  "description": "Luminous Obsidian & Glass executive productivity system featuring Today flow horizon, adaptive task management, ambient alerts, and weekly synchrony insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
